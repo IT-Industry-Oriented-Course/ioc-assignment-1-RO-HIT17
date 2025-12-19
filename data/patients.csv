@@ -1,0 +1,4 @@
+id,name,dob,insurance_id,insurance_status
+P001,Ravi Kumar,1985-06-15,INS-12345,Active
+P002,Sarah Lee,1992-11-20,INS-67890,Inactive
+P003,John Doe,1970-01-01,INS-54321,Active

@@ -1,0 +1,5 @@
+id,department,doctor,start_time,end_time,is_booked
+S001,Cardiology,Dr. Smith,2025-12-25 10:00,2025-12-25 10:30,True
+S002,Cardiology,Dr. Smith,2025-12-25 10:30,2025-12-25 11:00,True
+S003,General Medicine,Dr. Jones,2025-12-26 09:00,2025-12-26 09:30,False
+S004,Dermatology,Dr. White,2025-12-27 14:00,2025-12-27 14:30,False

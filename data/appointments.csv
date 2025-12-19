@@ -1,0 +1,8 @@
+id,patient_id,slot_id,status,notes
+A001,P003,S005,Confirmed,Routine Checkup
+A1CF561,P001,S001,Confirmed,Test Real
+AF20B33,P001,S002,Confirmed,routine checkup
+A8E1A1E,P001,S004,Confirmed,
+AFF2B44,P001,S003,Confirmed,General Medicine appointment with Dr. Jones
+A67470D,P001,S001,Confirmed,Cardiology follow-up
+A5004E7,P001,S002,Confirmed,Routine checkup
